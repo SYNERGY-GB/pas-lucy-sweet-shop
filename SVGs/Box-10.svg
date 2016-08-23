@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Box-10.svg">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lighting"
+       id="filter6755">
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer6757">
+        <feFuncR
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncR6759" />
+        <feFuncG
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncG6761" />
+        <feFuncB
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncB6763" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lighting"
+       id="filter6765">
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer6767">
+        <feFuncR
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncR6769" />
+        <feFuncG
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncG6771" />
+        <feFuncB
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncB6773" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lighting"
+       id="filter6775">
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer6777">
+        <feFuncR
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncR6779" />
+        <feFuncG
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncG6781" />
+        <feFuncB
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncB6783" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lighting"
+       id="filter6785">
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer6787">
+        <feFuncR
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncR6789" />
+        <feFuncG
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncG6791" />
+        <feFuncB
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncB6793" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lighting"
+       id="filter6795">
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer6797">
+        <feFuncR
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncR6799" />
+        <feFuncG
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncG6801" />
+        <feFuncB
+           type="gamma"
+           amplitude="1.35"
+           exponent="0.78"
+           offset="-0.06"
+           id="feFuncB6803" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54041188"
+     inkscape:cx="550.69848"
+     inkscape:cy="307.97898"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237"
+       width="256"
+       height="256"
+       x="0"
+       y="540.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136"
+       width="218"
+       height="118"
+       x="18"
+       y="608.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138"
+       width="20"
+       height="9.5"
+       x="34"
+       y="708.86218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0"
+       width="20"
+       height="9.5"
+       x="34"
+       y="695.86218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31,691.36225 27,0 -13.5,-15 z"
+       id="path4155"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157"
+       width="63"
+       height="18"
+       x="95"
+       y="625.36218"
+       rx="6.9999995"
+       ry="11.999999"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-5-9"
+       width="218"
+       height="118"
+       x="24.462816"
+       y="1603.1041" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-6-5"
+       width="20"
+       height="9.5"
+       x="40.462818"
+       y="1703.6041" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-0-6"
+       width="20"
+       height="9.5"
+       x="40.462818"
+       y="1690.6041" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.462816,1686.1042 27.000001,0 -13.499999,-15 z"
+       id="path4155-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-2-9"
+       width="63"
+       height="18"
+       x="101.46282"
+       y="1620.1041"
+       rx="6.9999995"
+       ry="11.999999" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-5-9-1"
+       width="251.84251"
+       height="136.31842"
+       x="657.7569"
+       y="1587.4026" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-6-5-3"
+       width="23.104818"
+       height="10.974789"
+       x="676.24084"
+       y="1703.5043" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-0-6-3"
+       width="23.104818"
+       height="10.974789"
+       x="676.24084"
+       y="1688.4862" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 672.77508,1683.2877 31.19157,0 -15.59578,-17.3287 z"
+       id="path4155-9-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-2-9-9"
+       width="72.780174"
+       height="20.794336"
+       x="746.71051"
+       y="1607.0416"
+       rx="8.0866861"
+       ry="13.86289" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-5-9-1-7"
+       width="266.12466"
+       height="144.04913"
+       x="320.97293"
+       y="1587.5227" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-6-5-3-7"
+       width="24.415108"
+       height="11.597177"
+       x="340.50504"
+       y="1710.2086" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-0-6-3-4"
+       width="24.415108"
+       height="11.597177"
+       x="340.50504"
+       y="1694.3387" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 336.84275,1688.8454 32.96039,0 -16.48019,-18.3114 z"
+       id="path4155-9-3-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-2-9-9-3"
+       width="76.907585"
+       height="21.973597"
+       x="414.9711"
+       y="1608.2755"
+       rx="8.5452871"
+       ry="14.649064" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-5-9-9"
+       width="218"
+       height="118"
+       x="1359.0909"
+       y="1590.0195" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-6-5-0"
+       width="20"
+       height="9.5"
+       x="1375.0909"
+       y="1690.5195" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-0-6-6"
+       width="20"
+       height="9.5"
+       x="1375.0909"
+       y="1677.5195" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1372.091,1673.0195 27,0 -13.5,-15 z"
+       id="path4155-9-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-2-9-3"
+       width="63"
+       height="18"
+       x="1436.0909"
+       y="1607.0195"
+       rx="6.9999995"
+       ry="11.999999" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-5-9-1-0"
+       width="237.33858"
+       height="128.46767"
+       x="998.75464"
+       y="1592.6364" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-6-5-3-5"
+       width="21.774181"
+       height="10.342736"
+       x="1016.1741"
+       y="1702.0516" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-0-6-3-46"
+       width="21.774181"
+       height="10.342736"
+       x="1016.1741"
+       y="1687.8984" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1012.9079,1682.9993 29.3952,0 -14.6976,-16.3307 z"
+       id="path4155-9-3-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-2-9-9-36"
+       width="68.588669"
+       height="19.596764"
+       x="1082.5854"
+       y="1611.1444"
+       rx="7.6209631"
+       ry="13.064508" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6"
+       width="256"
+       height="256"
+       x="256"
+       y="540.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7"
+       width="218"
+       height="118.16193"
+       x="238.02504"
+       y="609.19708"
+       transform="matrix(1,0,0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8"
+       width="20"
+       height="9.5130377"
+       x="254.02501"
+       y="709.8349"
+       transform="matrix(1,0,0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6"
+       width="20"
+       height="9.5130377"
+       x="254.02501"
+       y="696.81708"
+       transform="matrix(1,0,0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.25774,691.36218 27,0 -14.28612,-15 z"
+       id="path4155-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5"
+       width="63"
+       height="18.024702"
+       x="315.02496"
+       y="626.22046"
+       rx="6.9999995"
+       ry="12.016467"
+       transform="matrix(1,0,0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6-8"
+       width="256"
+       height="256"
+       x="512"
+       y="540.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7-6"
+       width="218"
+       height="118.64641"
+       x="459.05008"
+       y="611.69495"
+       transform="matrix(1,0,0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8-2"
+       width="20"
+       height="9.552043"
+       x="475.05005"
+       y="712.74542"
+       transform="matrix(1,0,0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6-7"
+       width="20"
+       height="9.552043"
+       x="475.05005"
+       y="699.67419"
+       transform="matrix(1,0,0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 544.51551,691.36222 27,0 -15.07223,-15 z"
+       id="path4155-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5-3"
+       width="63"
+       height="18.098606"
+       x="536.04993"
+       y="628.78815"
+       rx="6.9999995"
+       ry="12.065737"
+       transform="matrix(1,0,0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6-0"
+       width="256"
+       height="256"
+       x="768"
+       y="540.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7-0"
+       width="218"
+       height="119.44952"
+       x="680.07507"
+       y="615.83551"
+       transform="matrix(1,0,0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8-8"
+       width="20"
+       height="9.6167002"
+       x="696.07501"
+       y="717.57001"
+       transform="matrix(1,0,0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6-4"
+       width="20"
+       height="9.6167002"
+       x="696.07501"
+       y="704.41028"
+       transform="matrix(1,0,0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 801.77327,691.36223 27,0 -15.85833,-15 z"
+       id="path4155-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5-32"
+       width="63"
+       height="18.221113"
+       x="757.07507"
+       y="633.04437"
+       rx="6.9999995"
+       ry="12.147408"
+       transform="matrix(1,0,0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6-8-7"
+       width="256"
+       height="256"
+       x="1024"
+       y="540.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7-6-8"
+       width="218"
+       height="119.0082"
+       x="953.57458"
+       y="613.56024"
+       transform="matrix(1,0,0.12989167,0.99152819,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8-2-2"
+       width="20"
+       height="9.5811701"
+       x="969.57458"
+       y="714.91882"
+       transform="matrix(1,0,0.12989167,0.99152819,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6-7-0"
+       width="20"
+       height="9.5811701"
+       x="969.57458"
+       y="701.8078"
+       transform="matrix(1,0,0.12989167,0.99152819,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1057.144,691.36227 27,0 -15.465,-15 z"
+       id="path4155-1-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5-3-4"
+       width="63"
+       height="18.153795"
+       x="1030.5745"
+       y="630.70557"
+       rx="6.9999995"
+       ry="12.10253"
+       transform="matrix(1,0,0.12989167,0.99152819,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-4"
+       width="256"
+       height="256"
+       x="0"
+       y="796.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-76"
+       width="218"
+       height="118"
+       x="18"
+       y="864.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-3"
+       width="20"
+       height="9.5"
+       x="34"
+       y="964.86218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-03"
+       width="20"
+       height="9.5"
+       x="34"
+       y="951.86218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.999987,947.3623 27,0 -13.5,-15 z"
+       id="path4155-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-52"
+       width="63"
+       height="18"
+       x="94.999985"
+       y="881.36218"
+       rx="6.9999995"
+       ry="11.999999"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6-5"
+       width="256"
+       height="256"
+       x="256"
+       y="796.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7-1"
+       width="218"
+       height="118.16193"
+       x="321.39139"
+       y="865.54846"
+       transform="matrix(1,0,-0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8-6"
+       width="20"
+       height="9.5130377"
+       x="337.39136"
+       y="966.18628"
+       transform="matrix(1,0,-0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6-2"
+       width="20"
+       height="9.5130377"
+       x="337.39136"
+       y="953.16846"
+       transform="matrix(1,0,-0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 284.74215,947.36223 27,0 -12.71388,-15 z"
+       id="path4155-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5-5"
+       width="63"
+       height="18.024702"
+       x="398.39127"
+       y="882.57184"
+       rx="6.9999995"
+       ry="12.016467"
+       transform="matrix(1,0,-0.05233596,0.99862953,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6-8-9"
+       width="256"
+       height="256"
+       x="512"
+       y="796.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7-6-5"
+       width="218"
+       height="118.64641"
+       x="625.78278"
+       y="869.09741"
+       transform="matrix(1,0,-0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8-2-28"
+       width="20"
+       height="9.552043"
+       x="641.78271"
+       y="970.14783"
+       transform="matrix(1,0,-0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6-7-5"
+       width="20"
+       height="9.552043"
+       x="641.78271"
+       y="957.07666"
+       transform="matrix(1,0,-0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 539.48436,947.36227 27,0 -11.92777,-15 z"
+       id="path4155-1-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5-3-6"
+       width="63"
+       height="18.098606"
+       x="702.78259"
+       y="886.19061"
+       rx="6.9999995"
+       ry="12.065737"
+       transform="matrix(1,0,-0.1042445,0.9945517,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6-0-2"
+       width="256"
+       height="256"
+       x="768"
+       y="796.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7-0-0"
+       width="218"
+       height="119.44952"
+       x="930.17401"
+       y="874.98029"
+       transform="matrix(1,0,-0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8-8-2"
+       width="20"
+       height="9.6167002"
+       x="946.17401"
+       y="976.71472"
+       transform="matrix(1,0,-0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6-4-5"
+       width="20"
+       height="9.6167002"
+       x="946.17401"
+       y="963.55505"
+       transform="matrix(1,0,-0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 794.22653,947.36228 27,0 -11.14162,-15 z"
+       id="path4155-1-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5-32-0"
+       width="63"
+       height="18.221113"
+       x="1007.174"
+       y="892.18915"
+       rx="6.9999995"
+       ry="12.147408"
+       transform="matrix(1,0,-0.15531543,0.98786493,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7237-6-8-7-4"
+       width="256"
+       height="256"
+       x="1024"
+       y="796.36218"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#af6b36;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136-7-6-8-9"
+       width="218"
+       height="119.96827"
+       x="1210.353"
+       y="878.78027"
+       transform="matrix(1,0,-0.18040013,0.98359331,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-8-2-2-1"
+       width="20"
+       height="9.6584644"
+       x="1226.353"
+       y="980.95642"
+       transform="matrix(1,0,-0.18040013,0.98359331,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392312;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-6-7-0-7"
+       width="20"
+       height="9.6584644"
+       x="1226.353"
+       y="967.73969"
+       transform="matrix(1,0,-0.18040013,0.98359331,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#392312;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1049.598,947.36232 27,0 -10.7489,-15 z"
+       id="path4155-1-0-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#311a07;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-5-3-4-8"
+       width="63"
+       height="18.300245"
+       x="1287.3529"
+       y="896.0639"
+       rx="6.9999995"
+       ry="12.200162"
+       transform="matrix(1,0,-0.18040013,0.98359331,0,0)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\BasketSheet-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

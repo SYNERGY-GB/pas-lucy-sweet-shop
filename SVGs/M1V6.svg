@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="M1V6.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5799">
+      <stop
+         id="stop5803"
+         offset="0"
+         style="stop-color:#0e1022;stop-opacity:1" />
+      <stop
+         id="stop5801"
+         offset="1"
+         style="stop-color:#1f244c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5791">
+      <stop
+         id="stop5795"
+         offset="0"
+         style="stop-color:#0e1022;stop-opacity:1" />
+      <stop
+         id="stop5793"
+         offset="1"
+         style="stop-color:#1f244c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5783">
+      <stop
+         id="stop5787"
+         offset="0"
+         style="stop-color:#0e1022;stop-opacity:1" />
+      <stop
+         id="stop5785"
+         offset="1"
+         style="stop-color:#1f244c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5775">
+      <stop
+         id="stop5779"
+         offset="0"
+         style="stop-color:#0e1022;stop-opacity:1" />
+      <stop
+         id="stop5777"
+         offset="1"
+         style="stop-color:#1f244c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient5742-2"
+       x1="338.63062"
+       y1="539.88757"
+       x2="338.63062"
+       y2="569.98468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.3714045,25.000153,-750.42155)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4672">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.50196081"
+         offset="0"
+         id="stop4674" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4676" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5712"
+       id="linearGradient5933"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-499.3526)"
+       x1="304.39746"
+       y1="1008.8768"
+       x2="304.39746"
+       y2="948.73755" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5712">
+      <stop
+         style="stop-color:#8e8e8e;stop-opacity:1"
+         offset="0"
+         id="stop5714" />
+      <stop
+         id="stop5720"
+         offset="0.56923026"
+         style="stop-color:#bcbcbc;stop-opacity:1" />
+      <stop
+         style="stop-color:#8e8e8e;stop-opacity:1"
+         offset="1"
+         id="stop5716" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5068"
+       id="linearGradient5066-3"
+       x1="180.56734"
+       y1="924.78748"
+       x2="180.56734"
+       y2="1008.5288"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67009517,0,0,0.67009517,-1704.9521,-616.65352)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5068">
+      <stop
+         style="stop-color:#150d0d;stop-opacity:1"
+         offset="0"
+         id="stop5070" />
+      <stop
+         style="stop-color:#281919;stop-opacity:0"
+         offset="1"
+         id="stop5072" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.95081943,0,0,0.9973538,-2335.9654,-493.13331)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5809"
+       id="linearGradient5807-9"
+       x1="310.87399"
+       y1="543.49109"
+       x2="310.87399"
+       y2="1057.9136"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5809">
+      <stop
+         style="stop-color:#262626;stop-opacity:1"
+         offset="0"
+         id="stop5811" />
+      <stop
+         style="stop-color:#212121;stop-opacity:1"
+         offset="1"
+         id="stop5813" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient5606"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1352.3906,-52.664023)"
+       x1="369.74115"
+       y1="1000.8969"
+       x2="390.44293"
+       y2="1020.4421" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5265"
+       id="linearGradient5608"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94834449,0,0,1,1357.3242,-52.895333)"
+       x1="377.48984"
+       y1="1006.1011"
+       x2="77.718498"
+       y2="574.94855" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5265">
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1"
+         offset="0"
+         id="stop5267" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop5269" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient5610"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9254599,0,0,0.96526946,1357.3457,-34.978053)"
+       x1="250.69743"
+       y1="538.21588"
+       x2="250.19756"
+       y2="580.49988" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5284"
+       id="linearGradient5290-9-2"
+       x1="217.20419"
+       y1="560.38165"
+       x2="217.20419"
+       y2="476.64026"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5284">
+      <stop
+         style="stop-color:#323840;stop-opacity:1"
+         offset="0"
+         id="stop5286" />
+      <stop
+         style="stop-color:#424d5c;stop-opacity:1"
+         offset="1"
+         id="stop5288" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4983"
+       id="radialGradient4975"
+       cx="-326.70157"
+       cy="234.3876"
+       fx="-326.70157"
+       fy="234.3876"
+       r="730.92395"
+       gradientTransform="matrix(0.00272961,0.86219144,-0.97515408,0.00250622,-2096.1442,295.9843)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4983"
+       inkscape:collect="always">
+      <stop
+         id="stop4985"
+         offset="0"
+         style="stop-color:#1f244c;stop-opacity:1" />
+      <stop
+         id="stop4987"
+         offset="1"
+         style="stop-color:#0e1022;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1352.3906,-52.664023)"
+       x1="369.74115"
+       y1="1000.8969"
+       x2="390.44293"
+       y2="1020.4421" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4430"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9254599,0,0,0.96526946,1357.3457,-34.978053)"
+       x1="250.69743"
+       y1="538.21588"
+       x2="250.19756"
+       y2="580.49988" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4633"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1352.3906,-52.664023)"
+       x1="369.74115"
+       y1="1000.8969"
+       x2="390.44293"
+       y2="1020.4421" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4635"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9254599,0,0,0.96526946,1357.3457,-34.978053)"
+       x1="250.69743"
+       y1="538.21588"
+       x2="250.19756"
+       y2="580.49988" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient5742-2-2"
+       x1="338.63062"
+       y1="539.88757"
+       x2="338.63062"
+       y2="569.98468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.3714045,25.000153,-750.42155)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5712"
+       id="linearGradient5933-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-499.3526)"
+       x1="304.39746"
+       y1="1008.8768"
+       x2="304.39746"
+       y2="948.73755" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5068"
+       id="linearGradient5066-3-5"
+       x1="180.56734"
+       y1="924.78748"
+       x2="180.56734"
+       y2="1008.5288"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67009517,0,0,0.67009517,671.0135,-120.7355)" />
+    <linearGradient
+       gradientTransform="matrix(0.95081943,0,0,0.9973538,40.000133,2.784697)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5809"
+       id="linearGradient5807-9-3"
+       x1="310.87399"
+       y1="543.49109"
+       x2="310.87399"
+       y2="1057.9136"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4860"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1352.3906,-52.664023)"
+       x1="369.74115"
+       y1="1000.8969"
+       x2="390.44293"
+       y2="1020.4421" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4862"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9254599,0,0,0.96526946,1357.3457,-34.978053)"
+       x1="250.69743"
+       y1="538.21588"
+       x2="250.19756"
+       y2="580.49988" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5284"
+       id="linearGradient5290-9-2-4"
+       x1="217.20419"
+       y1="560.38165"
+       x2="217.20419"
+       y2="476.64026"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4983"
+       id="radialGradient4975-4"
+       cx="-326.70157"
+       cy="234.3876"
+       fx="-326.70157"
+       fy="234.3876"
+       r="730.92395"
+       gradientTransform="matrix(0.00272961,0.86219144,-0.97515408,0.00250622,279.82139,791.90232)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4894"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1352.3906,-52.664023)"
+       x1="369.74115"
+       y1="1000.8969"
+       x2="390.44293"
+       y2="1020.4421" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5265"
+       id="linearGradient4896"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94834449,0,0,1,1357.3242,-52.895333)"
+       x1="377.48984"
+       y1="1006.1011"
+       x2="77.718498"
+       y2="574.94855" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient4898"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9254599,0,0,0.96526946,1357.3457,-34.978053)"
+       x1="250.69743"
+       y1="538.21588"
+       x2="250.19756"
+       y2="580.49988" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5775"
+       id="linearGradient5761"
+       x1="510.72156"
+       y1="917.28003"
+       x2="510.72156"
+       y2="854.36505"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.28125e-5,-1.2953813e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5783"
+       id="linearGradient5763"
+       x1="505.17023"
+       y1="832.15979"
+       x2="505.17023"
+       y2="767.39435"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.28125e-5,-1.2953813e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5791"
+       id="linearGradient5765"
+       x1="499.61893"
+       y1="735.93689"
+       x2="499.61893"
+       y2="676.72278"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.28125e-5,-1.2953813e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5799"
+       id="linearGradient5767"
+       x1="503.31979"
+       y1="647.11572"
+       x2="503.31979"
+       y2="587.90167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.28125e-5,-1.2953813e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5799"
+       id="linearGradient5761-0"
+       x1="510.72156"
+       y1="917.28003"
+       x2="510.72156"
+       y2="854.36505"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1106.9245,-1033.4702)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5799"
+       id="linearGradient5763-9"
+       x1="505.17023"
+       y1="832.15979"
+       x2="505.17023"
+       y2="767.39435"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1106.9245,-1033.4702)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5799"
+       id="linearGradient5765-6"
+       x1="499.61893"
+       y1="735.93689"
+       x2="499.61893"
+       y2="676.72278"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1106.9245,-1033.4702)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5799"
+       id="linearGradient5767-0"
+       x1="503.31979"
+       y1="647.11572"
+       x2="503.31979"
+       y2="587.90167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1106.9245,-1033.4702)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient5742-2-2-3"
+       x1="338.63062"
+       y1="539.88757"
+       x2="338.63062"
+       y2="569.98468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.3714045,25.000153,-750.42155)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5712"
+       id="linearGradient5933-7-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-499.3526)"
+       x1="304.39746"
+       y1="1008.8768"
+       x2="304.39746"
+       y2="948.73755" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5068"
+       id="linearGradient5066-3-5-9"
+       x1="180.56734"
+       y1="924.78748"
+       x2="180.56734"
+       y2="1008.5288"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67009517,0,0,0.67009517,1777.938,-1154.2057)" />
+    <linearGradient
+       gradientTransform="matrix(0.95081943,0,0,0.9973538,1146.9246,-1030.6855)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5809"
+       id="linearGradient5807-9-3-4"
+       x1="310.87399"
+       y1="543.49109"
+       x2="310.87399"
+       y2="1057.9136"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient6007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1352.3906,-52.664023)"
+       x1="369.74115"
+       y1="1000.8969"
+       x2="390.44293"
+       y2="1020.4421" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient6009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9254599,0,0,0.96526946,1357.3457,-34.978053)"
+       x1="250.69743"
+       y1="538.21588"
+       x2="250.19756"
+       y2="580.49988" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5284"
+       id="linearGradient5290-9-2-4-3"
+       x1="217.20419"
+       y1="560.38165"
+       x2="217.20419"
+       y2="476.64026"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4983"
+       id="radialGradient4975-4-1"
+       cx="-326.70157"
+       cy="234.3876"
+       fx="-326.70157"
+       fy="234.3876"
+       r="730.92395"
+       gradientTransform="matrix(0.00272961,0.86219144,-0.97515408,0.00250622,1386.7458,-241.56789)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient6047"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1352.3906,-52.664023)"
+       x1="369.74115"
+       y1="1000.8969"
+       x2="390.44293"
+       y2="1020.4421" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5265"
+       id="linearGradient6049"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94834449,0,0,1,1357.3242,-52.895333)"
+       x1="377.48984"
+       y1="1006.1011"
+       x2="77.718498"
+       y2="574.94855" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4672"
+       id="linearGradient6051"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9254599,0,0,0.96526946,1357.3457,-34.978053)"
+       x1="250.69743"
+       y1="538.21588"
+       x2="250.19756"
+       y2="580.49988" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.19106445"
+     inkscape:cx="789.47946"
+     inkscape:cy="668.49669"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7309-4-5"
+       width="120"
+       height="1.5"
+       x="-2101.9656"
+       y="528.41907"
+       rx="1.5011539"
+       ry="0.03711186"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Basket-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient4975);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4828"
+       width="960"
+       height="600"
+       x="-2375.9656"
+       y="-43.555824"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\UIBackgrounds\BackgroundPointLight-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392323;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-3-3-6"
+       width="231.47412"
+       height="84.009125"
+       x="-1699.0693"
+       y="0.05025528"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-2-6"
+       width="243.24455"
+       height="8.8242693"
+       x="-1704.9521"
+       y="79.705132"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#c3c3c3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5145"
+       width="243.24455"
+       height="0.80411422"
+       x="-1704.9521"
+       y="79.885185"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5515-3"
+       transform="matrix(0.61388667,0,0,0.61388667,-2549.4238,-118.12802)"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SideMenuBuy-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Inventory-Sheet-1.png"
+         ry="24"
+         rx="24"
+         y="464.93271"
+         x="1351.0028"
+         height="534.53412"
+         width="428.33401"
+         id="rect7065-7-9"
+         style="opacity:1;fill:#592712;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5277-8-0"
+         d="m 1748.8642,936.07 -5.5513,31.49607 -34.2666,6.0139 z"
+         style="fill:url(#linearGradient5606);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="rect7069-3-0"
+         d="m 1381.575,491.99725 0,481.46092 327.4219,0 39.7676,-37.42772 0,-444.0332 -367.1895,0 z"
+         style="opacity:1;fill:url(#linearGradient5608);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5277-0-3"
+         d="m 1709.1028,973.66687 5.5513,-31.49607 34.2666,-6.01393 z"
+         style="fill:#cacaca;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="462.99869"
+         x="1471.1729"
+         height="64.286858"
+         width="188"
+         id="rect5292-9-6"
+         style="opacity:1;fill:url(#linearGradient5610);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5338-3-6"
+         transform="translate(1351.0028,-52.895333)">
+        <path
+           style="opacity:1;fill:url(#linearGradient5290-9-2);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 214.34375,472.71484 a 34.674164,35.982624 0 0 0 -34.57422,33.90821 l -59.59961,0 0,58.56836 188,0 0,-58.56836 -59.22461,0 a 34.674164,35.982624 0 0 0 -34.60156,-33.90821 z"
+           id="rect7067-5-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#5f6d81;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 120.14955,506.77141 60.03709,-0.0578 c 0,0 0.90886,-31.39306 34.28687,-33.524 13.2413,-0.84535 23.55222,9.93209 23.55222,9.93209"
+           id="path5336-4-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsc" />
+      </g>
+      <circle
+         r="12.5"
+         cy="450.49866"
+         cx="1565.0028"
+         id="path5281-9-1"
+         style="opacity:1;fill:#252525;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5807-9);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5722-5"
+       width="579.99982"
+       height="503.66367"
+       x="-2335.9656"
+       y="52.780506"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Background-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.07788849px;line-height:125%;font-family:'alarm clock';-inkscape-font-specification:'alarm clock';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1675.6357"
+       y="69.150383"
+       id="text8271"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8273"
+         x="-1675.6357"
+         y="69.150383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'alarm clock';-inkscape-font-specification:'alarm clock';fill:none;fill-opacity:1">00:34</tspan></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5066-3);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-3-1-8-7"
+       width="231.47412"
+       height="58.21978"
+       x="-1699.0693"
+       y="1.1097035"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-0-8-7"
+       width="243.24455"
+       height="8.8242693"
+       x="-1704.9521"
+       y="-4.4195933"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5145-9"
+       width="243.24455"
+       height="0.80411422"
+       x="-1704.9521"
+       y="3.6283803"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5935"
+       transform="matrix(0.95081943,0,0,0.9973538,-2359.736,-493.13321)"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Foreground-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="547.19189"
+         x="25"
+         height="65.822144"
+         width="610"
+         id="rect5734-3"
+         style="opacity:1;fill:url(#linearGradient5742-2);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5730-8"
+         transform="translate(25.000153,-2.2068559e-5)">
+        <rect
+           style="opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1.20018184;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5645-2"
+           width="610"
+           height="45.060997"
+           x="1.6391278e-008"
+           y="507.30121" />
+        <path
+           style="fill:url(#linearGradient5933);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.95229882px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 43.788029,450.77045 c 0,0 -18.667724,-0.25408 -32.468329,18.35351 C 1.8208347,481.93143 0,508.3622 0,508.3622 l 610,0 c 0,0 -1.82083,-26.43077 -11.3197,-39.23824 -13.80061,-18.60759 -32.46833,-18.35351 -32.46833,-18.35351 z"
+           id="path5647-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccscc" />
+      </g>
+    </g>
+    <path
+       style="opacity:1;fill:#c87137;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -2100.4636,528.73626 c -0.8316,0 -1.5019,0.6815 -1.5019,1.5273 l 0,26.1797 120,0 0,-26.1797 c 0,-0.8458 -0.6703,-1.5273 -1.502,-1.5273 l -116.9961,0 z"
+       id="rect7309-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Basket-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7326-5"
+       width="40"
+       height="11"
+       x="-2061.9656"
+       y="534.40259"
+       rx="5.6366787"
+       ry="9.1941404"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Basket-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7309-4-5-5"
+       width="120"
+       height="1.5"
+       x="273.99988"
+       y="1024.3372"
+       rx="1.5011539"
+       ry="0.03711186"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Basket-4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient4975-4);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4828-5"
+       width="960"
+       height="600"
+       x="0"
+       y="452.36221"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\UIBackgrounds\BackgroundPointLight-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392323;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-3-3-6-6"
+       width="231.47412"
+       height="84.009125"
+       x="676.89624"
+       y="495.96829"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-2-6-8"
+       width="243.24455"
+       height="8.8242693"
+       x="671.01343"
+       y="575.62317"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#c3c3c3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5145-0"
+       width="243.24455"
+       height="0.80411422"
+       x="671.01343"
+       y="575.80322"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5515-3-6"
+       transform="matrix(0.61388667,0,0,0.61388667,-173.45827,377.78999)"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SideMenuBuy-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Inventory-Sheet-1.png"
+         ry="24"
+         rx="24"
+         y="464.93271"
+         x="1351.0028"
+         height="534.53412"
+         width="428.33401"
+         id="rect7065-7-9-9"
+         style="opacity:1;fill:#592712;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5277-8-0-1"
+         d="m 1748.8642,936.07 -5.5513,31.49607 -34.2666,6.0139 z"
+         style="fill:url(#linearGradient4894);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="rect7069-3-0-0"
+         d="m 1381.575,491.99725 0,481.46092 327.4219,0 39.7676,-37.42772 0,-444.0332 -367.1895,0 z"
+         style="opacity:1;fill:url(#linearGradient4896);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5277-0-3-0"
+         d="m 1709.1028,973.66687 5.5513,-31.49607 34.2666,-6.01393 z"
+         style="fill:#cacaca;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="462.99869"
+         x="1471.1729"
+         height="64.286858"
+         width="188"
+         id="rect5292-9-6-2"
+         style="opacity:1;fill:url(#linearGradient4898);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5338-3-6-0"
+         transform="translate(1351.0028,-52.895333)">
+        <path
+           style="opacity:1;fill:url(#linearGradient5290-9-2-4);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 214.34375,472.71484 a 34.674164,35.982624 0 0 0 -34.57422,33.90821 l -59.59961,0 0,58.56836 188,0 0,-58.56836 -59.22461,0 a 34.674164,35.982624 0 0 0 -34.60156,-33.90821 z"
+           id="rect7067-5-0-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#5f6d81;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 120.14955,506.77141 60.03709,-0.0578 c 0,0 0.90886,-31.39306 34.28687,-33.524 13.2413,-0.84535 23.55222,9.93209 23.55222,9.93209"
+           id="path5336-4-4-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsc" />
+      </g>
+      <circle
+         r="12.5"
+         cy="450.49866"
+         cx="1565.0028"
+         id="path5281-9-1-0"
+         style="opacity:1;fill:#252525;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5807-9-3);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5722-5-8"
+       width="579.99982"
+       height="503.66367"
+       x="40"
+       y="548.69855"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Background-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.07788849px;line-height:125%;font-family:'alarm clock';-inkscape-font-specification:'alarm clock';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="700.32983"
+       y="565.06842"
+       id="text8271-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8273-8"
+         x="700.32983"
+         y="565.06842"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'alarm clock';-inkscape-font-specification:'alarm clock';fill:none;fill-opacity:1">00:34</tspan></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5066-3-5);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-3-1-8-7-0"
+       width="231.47412"
+       height="58.21978"
+       x="676.89624"
+       y="497.02774"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-0-8-7-6"
+       width="243.24455"
+       height="8.8242693"
+       x="671.01343"
+       y="491.49844"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5145-9-7"
+       width="243.24455"
+       height="0.80411422"
+       x="671.01343"
+       y="499.54642"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5935-1"
+       transform="matrix(0.95081943,0,0,0.9973538,16.229533,2.784797)"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Foreground-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="547.19189"
+         x="25"
+         height="65.822144"
+         width="610"
+         id="rect5734-3-4"
+         style="opacity:1;fill:url(#linearGradient5742-2-2);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5730-8-6"
+         transform="translate(25.000153,-2.2068559e-5)">
+        <rect
+           style="opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1.20018184;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5645-2-6"
+           width="610"
+           height="45.060997"
+           x="1.6391278e-008"
+           y="507.30121" />
+        <path
+           style="fill:url(#linearGradient5933-7);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.95229882px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 43.788029,450.77045 c 0,0 -18.667724,-0.25408 -32.468329,18.35351 C 1.8208347,481.93143 0,508.3622 0,508.3622 l 610,0 c 0,0 -1.82083,-26.43077 -11.3197,-39.23824 -13.80061,-18.60759 -32.46833,-18.35351 -32.46833,-18.35351 z"
+           id="path5647-4-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccscc" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#c87137;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 275.50198,1024.6543 c -0.83164,0 -1.50195,0.6815 -1.50195,1.5273 l 0,26.1797 120,0 0,-26.1797 c 0,-0.8458 -0.67031,-1.5273 -1.50195,-1.5273 l -116.9961,0 z"
+       id="rect7309-5-4" />
+    <rect
+       style="opacity:1;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7326-5-7"
+       width="40"
+       height="11"
+       x="313.99988"
+       y="1030.3207"
+       rx="5.6366787"
+       ry="9.1941404"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Basket-4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.78431373;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4828-5-8"
+       width="960"
+       height="600"
+       x="0"
+       y="452.36221"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\UIBackgrounds\BackgroundPointLight-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d4d4d4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5550"
+       width="320"
+       height="400"
+       x="320"
+       y="552.36218"
+       rx="16"
+       ry="22.222221"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\PauseMenu\PauseBackground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5767);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5"
+       width="240"
+       height="60"
+       x="360"
+       y="587.36218"
+       rx="20"
+       ry="17.142857" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5765);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5-1"
+       width="240"
+       height="60"
+       x="360"
+       y="677.36218"
+       rx="20"
+       ry="17.142857" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5763);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5-5"
+       width="240"
+       height="60"
+       x="360"
+       y="767.36218"
+       rx="20"
+       ry="17.142857" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5761);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5-1-2"
+       width="240"
+       height="60"
+       x="360"
+       y="857.36218"
+       rx="20"
+       ry="17.142857"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\PauseMenu\PauseButton-2.png" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7309-4-5-5-8"
+       width="120"
+       height="1.5"
+       x="1380.9243"
+       y="-9.1331339"
+       rx="1.5011539"
+       ry="0.03711186"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Basket-4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient4975-4-1);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4828-5-3"
+       width="960"
+       height="600"
+       x="1106.9244"
+       y="-581.10797"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\UIBackgrounds\BackgroundPointLight-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#392323;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-3-3-6-6-7"
+       width="231.47412"
+       height="84.009125"
+       x="1783.8207"
+       y="-537.50189"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-2-6-8-1"
+       width="243.24455"
+       height="8.8242693"
+       x="1777.9379"
+       y="-457.84708"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#c3c3c3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5145-0-2"
+       width="243.24455"
+       height="0.80411422"
+       x="1777.9379"
+       y="-457.66702"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockBackground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5515-3-6-5"
+       transform="matrix(0.61388667,0,0,0.61388667,933.46616,-655.68022)"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SideMenuBuy-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Inventory-Sheet-1.png"
+         ry="24"
+         rx="24"
+         y="464.93271"
+         x="1351.0028"
+         height="534.53412"
+         width="428.33401"
+         id="rect7065-7-9-9-2"
+         style="opacity:1;fill:#592712;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5277-8-0-1-3"
+         d="m 1748.8642,936.07 -5.5513,31.49607 -34.2666,6.0139 z"
+         style="fill:url(#linearGradient6047);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="rect7069-3-0-0-5"
+         d="m 1381.575,491.99725 0,481.46092 327.4219,0 39.7676,-37.42772 0,-444.0332 -367.1895,0 z"
+         style="opacity:1;fill:url(#linearGradient6049);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5277-0-3-0-8"
+         d="m 1709.1028,973.66687 5.5513,-31.49607 34.2666,-6.01393 z"
+         style="fill:#cacaca;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="462.99869"
+         x="1471.1729"
+         height="64.286858"
+         width="188"
+         id="rect5292-9-6-2-0"
+         style="opacity:1;fill:url(#linearGradient6051);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5338-3-6-0-4"
+         transform="translate(1351.0028,-52.895333)">
+        <path
+           style="opacity:1;fill:url(#linearGradient5290-9-2-4-3);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 214.34375,472.71484 a 34.674164,35.982624 0 0 0 -34.57422,33.90821 l -59.59961,0 0,58.56836 188,0 0,-58.56836 -59.22461,0 a 34.674164,35.982624 0 0 0 -34.60156,-33.90821 z"
+           id="rect7067-5-0-6-5"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#5f6d81;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 120.14955,506.77141 60.03709,-0.0578 c 0,0 0.90886,-31.39306 34.28687,-33.524 13.2413,-0.84535 23.55222,9.93209 23.55222,9.93209"
+           id="path5336-4-4-5-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsc" />
+      </g>
+      <circle
+         r="12.5"
+         cy="450.49866"
+         cx="1565.0028"
+         id="path5281-9-1-0-2"
+         style="opacity:1;fill:#252525;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5807-9-3-4);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5722-5-8-6"
+       width="579.99982"
+       height="503.66367"
+       x="1146.9244"
+       y="-484.7717"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Background-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.07788849px;line-height:125%;font-family:'alarm clock';-inkscape-font-specification:'alarm clock';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1807.2543"
+       y="-468.40182"
+       id="text8271-2-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8273-8-8"
+         x="1807.2543"
+         y="-468.40182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'alarm clock';-inkscape-font-specification:'alarm clock';fill:none;fill-opacity:1">00:34</tspan></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5066-3-5-9);fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-3-1-8-7-0-6"
+       width="231.47412"
+       height="58.21978"
+       x="1783.8207"
+       y="-536.44244"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6916-0-8-7-6-8"
+       width="243.24455"
+       height="8.8242693"
+       x="1777.9379"
+       y="-541.97174"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5145-9-7-8"
+       width="243.24455"
+       height="0.80411422"
+       x="1777.9379"
+       y="-533.92377"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\ClockForeground-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5935-1-0"
+       transform="matrix(0.95081943,0,0,0.9973538,1123.154,-1030.6854)"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Foreground-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="547.19189"
+         x="25"
+         height="65.822144"
+         width="610"
+         id="rect5734-3-4-6"
+         style="opacity:1;fill:url(#linearGradient5742-2-2-3);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5730-8-6-7"
+         transform="translate(25.000153,-2.2068559e-5)">
+        <rect
+           style="opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1.20018184;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5645-2-6-5"
+           width="610"
+           height="45.060997"
+           x="1.6391278e-008"
+           y="507.30121" />
+        <path
+           style="fill:url(#linearGradient5933-7-1);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.95229882px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 43.788029,450.77045 c 0,0 -18.667724,-0.25408 -32.468329,18.35351 C 1.8208347,481.93143 0,508.3622 0,508.3622 l 610,0 c 0,0 -1.82083,-26.43077 -11.3197,-39.23824 -13.80061,-18.60759 -32.46833,-18.35351 -32.46833,-18.35351 z"
+           id="path5647-4-3-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccscc" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#c87137;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1382.4264,-8.8158937 c -0.8316,0 -1.5019,0.6815 -1.5019,1.5273 l 0,26.1796997 120,0 0,-26.1796997 c 0,-0.8458 -0.6704,-1.5273 -1.502,-1.5273 l -116.9961,0 z"
+       id="rect7309-5-4-0" />
+    <rect
+       style="opacity:1;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7326-5-7-5"
+       width="40"
+       height="11"
+       x="1420.9243"
+       y="-3.1496136"
+       rx="5.6366787"
+       ry="9.1941404"
+       inkscape:export-filename="C:\Users\Jose\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\Minigames\SkyDrop\Basket-4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.78431373;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4828-5-8-5"
+       width="960"
+       height="600"
+       x="1106.9244"
+       y="-581.10797"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\UIBackgrounds\BackgroundPointLight-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d4d4d4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5550-8"
+       width="320"
+       height="400"
+       x="1426.9244"
+       y="-481.10806"
+       rx="16"
+       ry="22.222221" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5767-0);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5-6"
+       width="240"
+       height="60"
+       x="1466.9244"
+       y="-446.10806"
+       rx="20"
+       ry="17.142857" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5761-0);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5-1-2-0"
+       width="240"
+       height="60"
+       x="1466.9244"
+       y="-176.10802"
+       rx="20"
+       ry="17.142857" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5765-6);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5-1-4"
+       width="240"
+       height="60"
+       x="1466.9244"
+       y="-356.10806"
+       rx="20"
+       ry="17.142857" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient5763-9);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5552-8-5-5-3"
+       width="240"
+       height="60"
+       x="1466.9244"
+       y="-266.10809"
+       rx="20"
+       ry="17.142857" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.78431373;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4828-5-8-5-9"
+       width="960"
+       height="600"
+       x="1106.9244"
+       y="-581.10797"
+       inkscape:export-filename="C:\Users\Unity\Desktop\[Pasantias]LucySweetShop\Assets\Sprites\UIBackgrounds\BackgroundPointLight-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d4d4d4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5550-8-0"
+       width="321.39444"
+       height="207.09819"
+       x="1426.2272"
+       y="-390.70615"
+       rx="16.069723"
+       ry="11.505455" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6083"
+       width="83.269821"
+       height="77.718498"
+       x="1471.9244"
+       y="-279.56241"
+       rx="20"
+       ry="17.1429" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6083-6"
+       width="83.269821"
+       height="77.718498"
+       x="1621.9244"
+       y="-279.56241"
+       rx="20"
+       ry="17.1429" />
+    <g
+       id="g6112"
+       transform="translate(1428.5534,-584.34669)"
+       style="fill:#800000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 210.38734,373.9621 c -0.14644,-3.66866 0.88877,-7.02999 2.16181,-10.42479 2.78744,-6.73064 6.60876,-12.87256 10.91222,-18.71888 4.85759,-5.94272 9.95358,-11.70985 15.26495,-17.25291 6.6146,-6.39355 14.90498,-10.93727 23.40726,-14.36373 0.47277,-0.16285 0.94553,-0.32571 1.4183,-0.48856 0,0 -10.62069,8.28736 -10.62069,8.28736 l 0,0 c -0.44473,0.16477 -0.88946,0.32953 -1.33419,0.4943 -4.33774,1.76706 -10.59112,5.65554 6.02556,-4.06094 0.76948,-0.44995 -1.54731,0.88806 -2.28966,1.38149 -0.81494,0.54168 -1.61904,1.10364 -2.37815,1.72113 -0.79294,0.645 -1.51396,1.37372 -2.27093,2.06058 -5.45129,5.46037 -10.55712,11.26988 -15.51779,17.17562 -4.29923,5.6542 -7.96491,11.67736 -10.73617,18.23669 -1.17338,3.15379 -2.2217,6.30891 -1.81414,9.72197 0,0 -12.22838,6.23067 -12.22838,6.23067 z"
+         id="path6108"
+         style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 217.27581,321.51914 c 6.00387,2.83235 11.87733,5.87197 17.54053,9.33763 8.13074,5.2792 15.12554,11.96749 21.59303,19.13525 3.90117,4.59857 7.80232,9.18587 11.28757,14.11171 0,0 -11.38533,6.66763 -11.38533,6.66763 l 0,0 c -3.13197,-5.05785 -6.746,-9.77958 -10.62568,-14.28855 -6.34745,-7.13454 -13.39492,-13.62619 -21.48825,-18.75825 -5.77771,-3.42536 -11.81785,-6.50225 -18.245,-8.52279 0,0 11.32313,-7.68263 11.32313,-7.68263 z"
+         id="path6110"
+         style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="opacity:1;fill:#005522;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6116"
+       d="m 1490.3293,-244.64381 c 2.9266,2.67854 5.8237,5.35381 8.5663,8.22601 3.1912,3.60529 5.6717,7.70786 8.2467,11.7476 1.497,1.87371 2.1274,4.28327 3.5316,6.20852 0.2096,0.28751 0.3745,0.82541 0.7276,0.78119 0.3645,-0.0456 0.3795,-0.62907 0.5692,-0.9436 -3.334,1.6037 -6.3348,4.32312 -10.0022,4.8111 -1.445,0.19226 1.5295,-2.48447 2.209,-3.77414 1.2659,-2.40291 3.7019,-7.92448 4.8709,-10.22935 2.451,-4.83271 3.787,-6.91657 6.5405,-11.56614 4.6072,-7.50976 9.9017,-14.56643 16.2371,-20.69527 1.6804,-1.61099 3.5094,-3.05492 5.3501,-4.47553 0,0 12.5759,-4.97458 12.5759,-4.97458 l 0,0 c -2.029,1.37219 -3.968,2.89235 -5.8243,4.48914 -6.8342,6.11454 -12.3854,13.04025 -17.33,20.77393 -3.4239,5.69157 -6.1432,10.61797 -8.8131,16.70726 -0.6913,1.57679 -1.3461,3.16942 -2.0317,4.74872 -0.5461,1.25785 -0.6222,2.87001 -1.6632,3.76258 -3.9365,3.37525 -8.5914,5.80875 -12.8871,8.71312 -0.4738,-0.12497 -1.0086,-0.11095 -1.4215,-0.37491 -1.328,-0.84905 -2.8497,-5.96386 -4.0869,-7.29525 -2.4763,-3.99742 -4.9178,-8.0334 -8.1085,-11.52363 -2.75,-2.91097 -5.7326,-5.53282 -8.9038,-7.97923 0,0 11.6474,-7.13754 11.6474,-7.13754 z"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6154"
+       width="300.53784"
+       height="99.92379"
+       x="1436.3029"
+       y="-382.65359"
+       rx="9.9999981"
+       ry="6.7288628" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4315"
+       d="m -780.19028,42.742357 c 16.764,20.781437 34.13057,40.999167 49.72126,62.715463 11.60464,14.57406 16.36237,31.65497 20.86404,49.2423 13.01673,-22.322 -4.52071,8.10394 -66.32609,31.59427 -2.76805,1.05205 2.32871,-5.45309 3.25766,-8.26484 5.22541,-15.81623 9.37633,-32.02296 14.48492,-47.8916 10.71678,-30.861113 28.33018,-58.797962 50.30821,-82.899611 13.53453,-14.842294 21.63948,-20.920766 36.79051,-33.796071 62.37031,-44.344771 130.93882,-79.286412 202.83708,-104.987584 0,0 -57.14406,44.581099 -57.14406,44.581099 l 0,0 c -23.26052,8.245912 -45.96644,17.123354 -68.20888,27.894954 -8.54193,4.136696 -32.7894,18.85251544 -25.35717,12.9500787 10.97232,-8.7138677 23.61665,-15.1767037 36.12103,-21.4983937 7.73929,-3.91266 -14.51391,9.495702 -21.77087,14.243553 -14.34606,11.6250938 -24.77827,19.3496702 -37.64694,32.766064 -21.9304,22.863812 -39.33168,49.526159 -49.74107,79.513312 -4.70068,15.465479 -8.88577,30.656069 -11.96613,46.520499 -0.56216,2.89522 0.78991,7.03553 -1.64978,8.6927 -68.36824,46.43933 -57.76469,63.72672 -72.0477,36.81344 -1.89519,-17.19351 -7.35662,-33.15959 -17.15903,-47.57097 -15.13595,-22.23252 -32.67404,-42.45123 -51.6827,-61.471857 0,0 66.31571,-39.146806 66.31571,-39.146806 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

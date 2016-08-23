@@ -1,0 +1,38 @@
+3
+Bussiness Opportunity
+A foreign bussiness man wants to meet you, he says that he will invest in your company if that sounds like a good idea.
+3
+Do meeting
+The bussiness man was convinced and invested money on your bussiness.
+0+300.00
+Propose a counter offer
+He was offended by your counter offer, he did not belive in you.
+2
+Ignore
+You decided not to get involved with him.
+2
+0
+Discount
+Chrismast has just ended and people are only buying cheap stuff. We should consider make a discount offer, what do you say?
+3
+Do discount
+All prices has been reduced by 5% and clients are comming to buy it all (customer satisfaction increased by 20%).
+10
+Offer Defective Product
+Clients have not realized they are buying second hand products (customer satisfaction increased by 10%)
+1+0.1
+Ignore
+Better not do a discount right now.
+2
+0
+Flyers Campaign
+We are not well know around here. I think we should print flyers to help market our bussiness in the neighborhood, do you agree?
+2
+Print Flyers
+We did it and we got some recognition around here, good job.
+11+0.1+-200.00
+Do nothing
+Lets use that money on something else.
+2
+1
+0+200.00

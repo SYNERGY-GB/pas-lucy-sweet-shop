@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ac40e3244aaf343bfba4c33ddc8543, type: 3}
+  m_Name: InventoryItemList
+  m_EditorClassIdentifier: 
+  eventList:
+  - title: Bussiness Opportunity
+    description: A foreign businessman wants to meet you, he says that he will invest
+      in your company if that sounds like a good idea
+    textOnButton:
+    - Do meeting
+    - Propose a counter offer
+    - Ignore
+    textOnResponse:
+    - The bussiness man was convinced and invested money on your bussiness.
+    - He was offended by your counter offer, he did not belive in you.
+    - You decided not to get involved with him.
+    instructionResponse:
+    - 0+300.00
+    - 2
+    - 2
+    req: 0
+    moneyReq: 0
+    debtReq: 0
+    equityReq: 0
+    productReq: 
+    specialReq: 0
+    specialReqID: 0
+  - title: Discount
+    description: Christmas has just ended and people are only buying cheap stuff.
+      We should consider make a discount offer, what do you say?.
+    textOnButton:
+    - Do discount
+    - Offer Defective Products
+    - Ignore
+    textOnResponse:
+    - All prices has been reduced by 5% and clients are coming to buy it all (customer
+      satisfaction increased by 20%).
+    - Clients have not realized they are buying second hand products (customer satisfaction
+      increased by 10%)
+    - Better not do a discount right now.
+    instructionResponse:
+    - 10
+    - 1+0.1
+    - 2
+    req: 0
+    moneyReq: 0
+    debtReq: 0
+    equityReq: 0
+    productReq: 
+    specialReq: 0
+    specialReqID: 0
+  - title: Flyers Campaign
+    description: We are not well known around here. I think we should print flyers
+      to help market our business in the neighborhood, do you agree?
+    textOnButton:
+    - Print Flyers
+    - Do nothing
+    textOnResponse:
+    - We did it and we got some recognition around here, good job.
+    - Lets use that money on something else.
+    instructionResponse:
+    - 11+0.1+-200.00
+    - 2
+    req: 1
+    moneyReq: 200
+    debtReq: 0
+    equityReq: 0
+    productReq: 
+    specialReq: 0
+    specialReqID: 0
+  - title: "Client\u2019s debt"
+    description: "There\u2019s a client who wants to buy 3 cupcakes, but he says he
+      forgot his wallet, he's a regular client. Should we give him a promissory note?."
+    textOnButton:
+    - Do promissory note
+    - Give cupcakes
+    - Do nothing
+    textOnResponse:
+    - We gave the cupcakes and the client signed the promissory note
+    - We gave away the cupcakes, the client very thankful wrote a online 5/5 stars
+      review of us. (Client Satisfaction +10%).
+    - Better keep then and sell to someone with money.
+    instructionResponse:
+    - 12+0.0
+    - 12+0.1
+    - 2
+    req: 1
+    moneyReq: 0
+    debtReq: 0
+    equityReq: 0
+    productReq: 00000000000000000000000003000000
+    specialReq: 1
+    specialReqID: 12
+  - title: Service Equipment
+    description: We are running low on equipment we need pencils, paper, and new notebooks
+      to register everything on our business. Our provider trust us and says he will
+      take a payable note if necessary. What do you think?.
+    textOnButton:
+    - Payable Note
+    - Pay with cash
+    - Do nothing
+    textOnResponse:
+    - We gave him a Payable Note to pay it later.
+    - We decided that is better not to have debts and pay it if we can.
+    - We can manage not having a few pecils and notebooks.
+    instructionResponse:
+    - 13+300
+    - 0+-300
+    - 2
+    req: 1
+    moneyReq: 300
+    debtReq: 0
+    equityReq: 300
+    productReq: 
+    specialReq: 0
+    specialReqID: 0
+  - title: Distracted Client
+    description: A client left his cake on the counter, he already payed. What do
+      we do?.
+    textOnButton:
+    - Store the cake
+    - Do nothing
+    textOnResponse:
+    - The cake is in storage, I hope the cake owner comes before it turns bad.
+    - He might not come back. Better thow it out before it turns bad.
+    instructionResponse:
+    - 14+-1
+    - 14+0
+    req: 1
+    moneyReq: 0
+    debtReq: 0
+    equityReq: 0
+    productReq: 00000000000000000100000000000000
+    specialReq: 0
+    specialReqID: 0
+  - title: Rent Payment
+    description: "The landlord hasn\u2019t show up and we haven\u2019t paid our rent.
+      If we don\u2019t pay it won\u2019t look good on our financial books. We need
+      to do something."
+    textOnButton:
+    - Call landlord
+    - Do nothing
+    textOnResponse:
+    - "He did not attend our calls\u2026 Is he on vacation?."
+    - We have to register this either way...
+    instructionResponse:
+    - 15
+    - 15
+    req: 1
+    moneyReq: 0
+    debtReq: 0
+    equityReq: 50
+    productReq: 
+    specialReq: 0
+    specialReqID: 0
+  - title: 'Special Delivery '
+    description: "A client wants to buy 8 Cookies and 4 Ice creams and he\u2019s offering
+      a check for its payment. Its a first time customer, what should we do?"
+    textOnButton:
+    - Accept Check
+    - Ignore
+    textOnResponse:
+    - Everything went smoothly. We gain a lot of money from that.
+    - It's better to be too careful than to be careless and regret it later.
+    instructionResponse:
+    - 16
+    - 2
+    req: 1
+    moneyReq: 0
+    debtReq: 0
+    equityReq: 0
+    productReq: 08000000000000000400000000000000
+    specialReq: 0
+    specialReqID: 0
+  - title: Product Refund
+    description: "A customer bought a Cookie from us and he says it tastes bad and
+      wants his money back. The Cookie is already eaten so\u2026 should we give him
+      a refund?."
+    textOnButton:
+    - Refund Cookie
+    - Do nothing
+    textOnResponse:
+    - "We gave him his money back. Hope that doesn\u2019t happen again."
+    - The customer was angry at us but luckily he left without causing any damage.
+    instructionResponse:
+    - 0+-20
+    - 2
+    req: 1
+    moneyReq: 20
+    debtReq: 0
+    equityReq: 0
+    productReq: 
+    specialReq: 0
+    specialReqID: 0
